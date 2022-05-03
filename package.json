@@ -1,7 +1,6 @@
 {
   "name": "hackernews-node",
   "version": "1.0.0",
-  "description": "",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -12,5 +11,15 @@
   "dependencies": {
     "apollo-server": "^2.25.3",
     "graphql": "^14.6.0"
-  }
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/guih2127/hackernews-node.git"
+  },
+  "bugs": {
+    "url": "https://github.com/guih2127/hackernews-node/issues"
+  },
+  "homepage": "https://github.com/guih2127/hackernews-node#readme",
+  "description": ""
 }
