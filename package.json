@@ -9,10 +9,13 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "@prisma/client": "^3.13.0",
     "apollo-server": "^2.25.3",
     "graphql": "^14.6.0"
   },
-  "devDependencies": {},
+  "devDependencies": {
+    "prisma": "^3.13.0"
+  },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/guih2127/hackernews-node.git"
